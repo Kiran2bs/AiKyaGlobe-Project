@@ -1,0 +1,47 @@
+PHOTO CHECKLIST — GOMBE Channapatna Exports website
+=====================================================
+Put your real photos in this folder (assets/images) using these EXACT
+filenames. The website is already coded to look for these names once
+you switch a placeholder to a real <img> tag (see INSTRUCTIONS.md,
+section "Adding your own photos").
+
+HOME PAGE
+  about-teaser.jpg            1000 x 750 px   Workshop or artisan-at-work shot
+  wooden-toys-cover.jpg        800 x 800 px   Best single wooden toy shot
+  handicrafts-cover.jpg        800 x 800 px   Best single handicraft shot
+  home-decor-cover.jpg         800 x 800 px   Best single home décor shot
+
+ABOUT PAGE
+  founder-team.jpg            1000 x 750 px   Founder/team photo
+  our-craft.jpg                1000 x 750 px  Close-up of lathe/lacquer process
+
+PRODUCTS PAGE (Wooden Toys)
+  toy-spinning-top.jpg          800 x 800 px
+  toy-stacking-rings.jpg        800 x 800 px
+  toy-push-pull.jpg             800 x 800 px
+  toy-rattle.jpg                800 x 800 px
+  toy-abacus.jpg                800 x 800 px
+  toy-puzzle-blocks.jpg         800 x 800 px
+
+PRODUCTS PAGE (Handicrafts)
+  craft-figurines.jpg           800 x 800 px
+  craft-jewellery-box.jpg       800 x 800 px
+  craft-bangles.jpg             800 x 800 px
+  craft-keychains.jpg           800 x 800 px
+
+PRODUCTS PAGE (Home Décor & Gifts)
+  decor-napkin-rings.jpg        800 x 800 px
+  decor-coasters.jpg            800 x 800 px
+  decor-ornaments.jpg           800 x 800 px
+  decor-gift-sets.jpg           800 x 800 px
+
+CONTACT PAGE
+  map-or-workshop.jpg           900 x 500 px   Or replace with a Google Maps embed
+
+GENERAL PHOTO TIPS
+  - Use good, even daylight (near a window, no harsh shadow), plain background.
+  - Square photos (800x800) work best for product cards — crop before uploading.
+  - Keep each file under 500KB so the site loads fast (see INSTRUCTIONS.md
+    "Compressing photos" section for a free tool).
+  - Save as .jpg (photos) — the site's code already expects .jpg; if you use
+    .png just update the file extension in the matching HTML file too.
