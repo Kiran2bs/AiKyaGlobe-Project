@@ -294,6 +294,21 @@ section.alt{ background: var(--ivory); }
 .product-section{ scroll-margin-top: 110px; padding-top: 60px; }
 .product-section + .product-section{ border-top: 1px solid #E7E0D0; }
 
+/* ---------------- PRODUCT CARD IMAGES ----------------
+   Styles the real <img> tags that replaced the placeholder
+   divs. Keeps a consistent square box even while an image
+   is loading, missing, or a different aspect ratio. */
+.product-card img{
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  background: var(--navy-mid);
+  border-bottom: 1px solid #E7E0D0;
+}
+.product-card img.square{
+  aspect-ratio: 1/1;
+}
+
 /* ---------------- CTA BAND ---------------- */
 .cta-band{
   background: var(--navy-deep);
